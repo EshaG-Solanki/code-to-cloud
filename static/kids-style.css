@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Gill Sans', sans-serif;
+    color: rgb(248, 247, 247);
+}
+
+h3{
+    font-size: 36px;
+}
+
+p{
+    font-size: 22px;
+}
+
+#invite{
+    height: 800px;
+    width: 1200px;
+    background-image: url(../static/images/IMG_4206.JPG);
+    background-size: contain;
+    padding-top:180px;
+    padding-left:220px;
+}
